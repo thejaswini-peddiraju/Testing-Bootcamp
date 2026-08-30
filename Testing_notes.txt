@@ -1,0 +1,144 @@
+Testing 
+Its a process of execution program, intention is to find-out bugs
+Its also called as validation and verification 
+It also means checking the expected values with respect to actual values
+
+Types of applications:
+    1. Windows application or standalone application(requires no internet, single tier application)
+    2. Web applications(browser interaction, two tier application )
+    3. Client and Server applications(browser, database and application, three tier application)
+
+Debugging is not testing activity , It is a step by step execution of program
+Logic Error, Syntax Error, Program Error
+
+Testing is done by testers. It is a process of execution program and intention to find bugs
+
+Bug: Deviation from requirement. Bug term is treated by testing environment in STLS(Software testing Lifecycle) phase.
+
+Defect: Deviation from specifications. Defect  term is treated by developers in SDLS(Software Development Lifecycle) phase.
+
+Necessity of Testing 
+    1. To gain Customer confidence
+    2. To withstand in business 
+    3. To avoid extra cost
+    4. To optimize in business
+    5. To avoid risk
+
+Psychology or Motive of testing:
+1. To identify the defects so that tester needs to verify business requirements specifications and software requirement specifications 
+2. To help develop the quality of the product
+3. To ensure and satisfy the business and user requirements 
+4. To provide defects
+
+Product vs Project 
+Project is also called as application. It is developed according to single client requirement.
+Examples: banking Applications, Healthcare applications, Insurance Applications
+
+Product is developed according to market requirement and is used for multiple clients.
+Example: Lenovo, Amazon, Flipkart, Myntra, etc.
+
+FRS doc is designed by end users.
+7 principles of testing:
+1) Testing shld start asap in requirement else, it shows defects.
+2) Exhaustive testing is impossible.
+3) Testing is context dependent.http://testfire.net/
+4) Absence of error is a fallacy.
+5) Pesticide Paradox : if u execute same testcases again and again, tester will not find new bugs.
+6) Defect Clustering : Project is divided into module, so module is divided into sub-module, sub-modules are divided into micros. Each module defects will be recorded as separate. This techniques is defect clustering.
+7) Early testing saves time and money.
+
+Quality Assurance and Quality Control:
+
+Quality Assurance : Developers are more involved in quality assurance. It comes under SDLC. It is a process of identifying the bugs. 
+
+Quality Control: Testers are more involved in quality control. It is a process of error correction and detection. It comes under SDLC.
+
+Types of Testing:
+1) White box testing
+2) Black box testing
+3) Grey box testing
+4) User acceptance testing
+
+White Box Testing:
+Done by developers. Testing of an application using internal structure of programming knowledge is called White Box testing. Two types: 1)unit testing, 2)integration testing.
+
+i) Unit Testing: Micro unit of source code is called unit testing.
+Types of unit testing : 
+1) Basis path testing
+2) Statement technique coverages
+3) Program technique coverages
+4) Loops coverages
+5) Cyclomatic complexity
+
+ii) Integration Testing : Checking the data flow between the modules. Done by developers and testers.
+Types of integration testing:
+1) Bottom Up approach (Stub)
+2) Top Down approach
+3) Hybrid approach
+
+Black Box Testing:
+Testing an application without using internal structure. Also called "dynamic testing"; "structural testing", "clear box testing" and "close box testing".
+Types:
+1) Functional testing.
+2) Non Functional testing.
+
+Black Box Test Case Design techniques:
+1) Equivalence class partition
+2) Boundary value analysis
+3) Decision tables
+4) State transition techniques
+5) Error Guessing
+
+Boundary Value Analysis: It mainly focusses on boundaries. formula: +/- Min, +/-Max.
+
+Decision Table : Also called "cause - effect"
+
+Error Guessing : tester enters multiple inputs to the application and validates correctness and completeness of the app under test.
+
+SDLC vs STLC: 
+
+Information collection / SRS / Feasibility study -> Analysis -> Design -> Coding -> Testing -> Release and maintenance.
+
+Test Plan Specification -> Test scenarios -> Test case design technique -> test execution levels -> defect reporting -> Test closure.
+
+Test Plan : it is doc prepared by project manager or team leader or test engineers. Test Plan describes what to test, when to test, how to test, whom to test and where to test.
+
+Test Strategy : It is a doc which comes within the plan,
+strategies change but test plan never changes.
+
+Case Studies for test scenarios:
+Prepare minimum 10 scenarios based on the selected application
+
+Test case is a document prepared by test engineers, it describes actions, test data, pre-conditions, expected values and actual values and state of application under test. It describes detailed functionality of application, how to test.
+
+Characteristics of good test cases:
+1. it should be simple and clear so that even layman can understand.
+2. it should be readable, independent, repeatable, maintainable.
+3. same test cases should not repeat multiple times.
+4. it should meet all customer functional requirements.
+
+Defect Classification:
+1. Severity - assigned by QA testers, it affects the functionality of the application. Severity describes seriousness of the defect and impact on the business flow or functionality. it is classified into:
+Blocker, Critical, major, minor.
+2. Priority: it does not affect functionality of application. It is assigned by developer. 3  stages: High(P0), Medium(p1), Low(p2)
+3. Status: according to istqb ("Tester never fixes the bug, they only find bugs")
+i. New
+ii. Assigned:
+ 3 statuses:
+ deferred(bug is genuine but we can fix it in next sprint or next cycle or next version), 
+ rejected(bug has no genuine meaning),
+ duplicate(same bug is repeated multiple times)
+iii. Open
+
+High Priority, High severity
+High Priority, low severity
+low Priority, low severity
+low Priority, High severity
+
+Examples for low priority: logo mistakes, help docs/ user manuals are not in proper format, spelling mistakes, grammar mistakes, alignments/fonts.
+
+Requirement Traceability Matrix: We need it to test all test cases
+Mapping requirements with test cases is forward traceability
+Test cases with requirement is called backward traceability
+bi directional combines both
+
