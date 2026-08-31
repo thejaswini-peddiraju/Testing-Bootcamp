@@ -142,3 +142,92 @@ Mapping requirements with test cases is forward traceability
 Test cases with requirement is called backward traceability
 bi directional combines both
 
+31-08-2026
+Testing Terminology:
+1. Smoke testing
+2. Sanity testing
+3. Ad-hoc testing
+4. Exploratory testing
+5. Regression testing
+6. Re- testing
+7. Monkey testing/ gorilla testing
+
+Smoke testing : once developer develops build(.exe file), this build will be deployed in testing environment. once tester deploys this build into testing environment, tester checks the stability of the application.
+Ex: login/logout functionality working
+
+Sanity testing : checking important functionalities or critical functionality of the application is called sanity testing.
+
+Ad-hoc testing : checking the or testing the functionality of the application using pre-defined ideas. no rules or regulations will be followed.
+
+Exploratory testing : Testing an application with the help of developers due to lack of domain knowledge.
+
+Monkey testing : due to lack of time, tester will test the application randomly. also used for gaming application.
+
+Regression testing : whenever tester is testing initial build functionalities, modified build functionality should not affect or initial build functionality should not affect.
+
+Re-testing : Once developer assign bug status, tester re-opens bug to check expected values = actual values.
+
+Testing Levels:
+Unit testing
+Integration testing
+System testing
+User acceptance testing
+
+Non-functional testing types :
+Graphical user interface testing
+Recovery testing
+Installation testing
+Configuration testing
+Compatibility testing
+Security testing
+Performance testing
+Under performance testing
+Stress testing
+10. eek testing
+11. Endurance testing
+12. Spike testing
+13. localization/ internationalization testing
+
+Graphical user interface testing: tester will test user friendly factors of an application: 
+i) Help documents,
+ii) Font size, color, alignment, 
+iii) logo mistakes, wrong logos, 
+iv) grammar mistakes, spelling mistakes 
+v) windows overlapping, images overlapping 
+vi) menu bar, footer and headers
+
+2. Recovery testing:
+during normal flow of execution or working condition, incase unwanted errors occur, tester will check whether recovery functions are working or not to get normal state of the application.
+
+3. Installation testing:
+During installation, tester verifies below factors:
+i) Setup.exe files
+ii) Uninstallation files
+iii) Repair files
+iv) update files
+v) delete files
+vi) memory allocation in particular drive
+vii) During installation, any pop up messages
+
+4. Configuration testing
+Testing the application in different versions of OS
+
+5. Compatibility testing: types : forward and backward.
+Testing the applications using different browsers is called compatibility, in automation it is called parallel testing.
+
+6. Security Testing : to prevent from unauthorized users.
+
+Test Execution Levels:
+
+Level 0(build acceptance testing)
+Level 1(Smoke/sanity testing)
+Level 2(Regression testing)
+level 3(Final Regression testing)
+
+Automation Testing: Testing an application by using tools.
+TDD-Test driven development: focus is on code.
+BDD- Behavior driven development: it focuses on behavior of application.
+
+
+
+
