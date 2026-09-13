@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-07T09:52:47 IST" name="Default suite" finished-at="2026-09-07T09:54:35 IST" duration-ms="107474">
+    <groups>
+    </groups>
+    <test started-at="2026-09-07T09:52:47 IST" name="Default test" finished-at="2026-09-07T09:54:35 IST" duration-ms="107474">
+      <class name="seleniumWebDriver.LaunchDifferentBrowsers">
+        <test-method signature="ChromeBrowser()[pri:0, instance:seleniumWebDriver.LaunchDifferentBrowsers@1bd4fdd]" started-at="2026-09-07T09:52:48 IST" name="ChromeBrowser" finished-at="2026-09-07T09:53:06 IST" duration-ms="18799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeBrowser -->
+        <test-method signature="EdgeBrowser()[pri:0, instance:seleniumWebDriver.LaunchDifferentBrowsers@1bd4fdd]" started-at="2026-09-07T09:53:06 IST" name="EdgeBrowser" finished-at="2026-09-07T09:53:12 IST" duration-ms="5795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdgeBrowser -->
+        <test-method signature="FirefoxBrowser()[pri:0, instance:seleniumWebDriver.LaunchDifferentBrowsers@1bd4fdd]" started-at="2026-09-07T09:53:12 IST" name="FirefoxBrowser" finished-at="2026-09-07T09:54:35 IST" duration-ms="82764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxBrowser -->
+      </class> <!-- seleniumWebDriver.LaunchDifferentBrowsers -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-07T13:11:16 IST" name="Default suite" finished-at="2026-09-07T13:11:51 IST" duration-ms="35017">
+    <groups>
+    </groups>
+    <test started-at="2026-09-07T13:11:16 IST" name="Default test" finished-at="2026-09-07T13:11:51 IST" duration-ms="35017">
+      <class name="webDriverCommands.NavigationCommands">
+        <test-method signature="NavigationDemo()[pri:0, instance:webDriverCommands.NavigationCommands@76b1e9b8]" started-at="2026-09-07T13:11:16 IST" name="NavigationDemo" finished-at="2026-09-07T13:11:19 IST" duration-ms="3174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigationDemo -->
+        <test-method signature="NavigateBackDemo()[pri:1, instance:webDriverCommands.NavigationCommands@76b1e9b8]" started-at="2026-09-07T13:11:19 IST" name="NavigateBackDemo" finished-at="2026-09-07T13:11:30 IST" duration-ms="10904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateBackDemo -->
+        <test-method signature="NavigateFOrward()[pri:2, instance:webDriverCommands.NavigationCommands@76b1e9b8]" started-at="2026-09-07T13:11:30 IST" name="NavigateFOrward" finished-at="2026-09-07T13:11:51 IST" duration-ms="20799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateFOrward -->
+      </class> <!-- webDriverCommands.NavigationCommands -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
