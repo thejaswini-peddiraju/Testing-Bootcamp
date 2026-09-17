@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="2206" it="0" lt="1938" ct="1203" ts="1789539808251" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="48361" sby="137" ng="6" na="6">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="2620" it="0" lt="2352" ct="1617" ts="1789539807837" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="48361" sby="137" ng="6" na="6">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="2072" it="0" lt="1705" ct="1412" ts="1789539808751" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="48361" sby="137" ng="7" na="7">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1931" it="0" lt="1568" ct="1065" ts="1789539809257" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="48361" sby="137" ng="7" na="7">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1439" it="0" lt="1076" ct="717" ts="1789539809749" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="48361" sby="137" ng="7" na="7">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="991" it="0" lt="701" ct="388" ts="1789539810487" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="23955" sby="306" ng="8" na="8">
+  <httpSample t="701" it="0" lt="701" ct="388" ts="1789539810487" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-2" dt="text" by="387" sby="153" ng="8" na="8">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="288" it="0" lt="288" ct="0" ts="1789539811190" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="23568" sby="153" ng="8" na="8">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1040" it="0" lt="706" ct="393" ts="1789539810482" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="23955" sby="306" ng="8" na="8">
+  <httpSample t="706" it="0" lt="706" ct="393" ts="1789539810482" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-1" dt="text" by="387" sby="153" ng="8" na="8">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="332" it="0" lt="331" ct="0" ts="1789539811190" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="23568" sby="153" ng="8" na="8">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1483" it="0" lt="1225" ct="943" ts="1789539810254" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="48361" sby="137" ng="8" na="8">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="313" it="0" lt="313" ct="0" ts="1789539811479" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="23161" sby="146" ng="9" na="9">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="328" it="0" lt="327" ct="0" ts="1789539811522" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="23161" sby="146" ng="9" na="9">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="875" it="0" lt="599" ct="287" ts="1789539811190" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="23955" sby="306" ng="9" na="9">
+  <httpSample t="599" it="0" lt="599" ct="287" ts="1789539811190" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-4" dt="text" by="387" sby="153" ng="9" na="9">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="276" it="0" lt="276" ct="0" ts="1789539811789" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="23568" sby="153" ng="9" na="9">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="293" it="0" lt="293" ct="0" ts="1789539811793" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="20331" sby="156" ng="9" na="9">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1394" it="0" lt="1096" ct="773" ts="1789539810754" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="48361" sby="137" ng="9" na="9">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="299" it="0" lt="299" ct="0" ts="1789539811850" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="20331" sby="156" ng="9" na="9">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="959" it="0" lt="659" ct="330" ts="1789539811190" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="23955" sby="306" ng="9" na="9">
+  <httpSample t="659" it="0" lt="659" ct="330" ts="1789539811190" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-5" dt="text" by="387" sby="153" ng="9" na="9">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="300" it="0" lt="300" ct="0" ts="1789539811849" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="23568" sby="153" ng="9" na="9">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="664" it="0" lt="664" ct="0" ts="1789539812066" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1479" it="0" lt="898" ct="604" ts="1789539811251" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="646" it="0" lt="645" ct="0" ts="1789539812086" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="582" it="0" lt="582" ct="0" ts="1789539812150" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="583" it="0" lt="583" ct="0" ts="1789539812150" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="2518" it="0" lt="652" ct="361" ts="1789539810826" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="652" it="0" lt="652" ct="361" ts="1789539810826" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-3" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="1866" it="0" lt="1866" ct="0" ts="1789539811478" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1606" it="0" lt="993" ct="327" ts="1789539811738" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="993" it="0" lt="993" ct="327" ts="1789539811738" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-6" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="613" it="0" lt="613" ct="0" ts="1789539812731" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="616" it="0" lt="616" ct="0" ts="1789539812733" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="617" it="0" lt="616" ct="0" ts="1789539812733" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="622" it="0" lt="614" ct="0" ts="1789539812735" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1455" it="0" lt="1455" ct="0" ts="1789539812731" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="843" it="0" lt="843" ct="0" ts="1789539813345" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="844" it="0" lt="843" ct="0" ts="1789539813345" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="2040" it="0" lt="1194" ct="580" ts="1789539812149" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="1194" it="0" lt="1194" ct="580" ts="1789539812149" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-7" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="845" it="0" lt="844" ct="0" ts="1789539813344" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="2478" it="0" lt="1597" ct="990" ts="1789539811748" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="959" it="0" lt="959" ct="0" ts="1789539813350" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="618" it="0" lt="617" ct="0" ts="1789539814187" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="2559" it="0" lt="1939" ct="1102" ts="1789539812250" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="620" it="0" lt="619" ct="0" ts="1789539814189" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="620" it="0" lt="619" ct="0" ts="1789539814189" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="626" it="0" lt="618" ct="0" ts="1789539814190" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1460" it="0" lt="950" ct="0" ts="1789539813358" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="950" it="0" lt="950" ct="0" ts="1789539813358" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-1" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="509" it="0" lt="508" ct="0" ts="1789539814309" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1468" it="0" lt="958" ct="0" ts="1789539813350" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="958" it="0" lt="958" ct="0" ts="1789539813350" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-2" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="509" it="0" lt="508" ct="0" ts="1789539814309" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="509" it="0" lt="507" ct="0" ts="1789539814310" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="2353" it="0" lt="1455" ct="610" ts="1789539812733" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="1455" it="0" lt="1455" ct="610" ts="1789539812733" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-8" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="898" it="0" lt="620" ct="0" ts="1789539814188" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="280" it="0" lt="268" ct="0" ts="1789539814806" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="288" it="0" lt="277" ct="0" ts="1789539814810" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="288" it="0" lt="288" ct="0" ts="1789539814810" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="281" it="0" lt="281" ct="0" ts="1789539814817" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="280" it="0" lt="279" ct="0" ts="1789539814819" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="279" it="0" lt="278" ct="0" ts="1789539814820" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="257" it="0" lt="257" ct="0" ts="1789539815087" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="247" it="0" lt="246" ct="0" ts="1789539815098" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1155" it="0" lt="871" ct="589" ts="1789539814227" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="871" it="0" lt="871" ct="589" ts="1789539814227" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-9" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="284" it="0" lt="284" ct="0" ts="1789539815098" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="284" it="0" lt="283" ct="0" ts="1789539815099" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="284" it="0" lt="283" ct="0" ts="1789539815099" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="567" it="0" lt="277" ct="0" ts="1789539814821" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="277" it="0" lt="277" ct="0" ts="1789539814821" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-5" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="290" it="0" lt="290" ct="0" ts="1789539815098" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="288" it="0" lt="288" ct="0" ts="1789539815100" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="290" it="0" lt="290" ct="0" ts="1789539815099" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="370" it="0" lt="370" ct="0" ts="1789539815345" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="628" it="0" lt="295" ct="0" ts="1789539815087" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="295" it="0" lt="295" ct="0" ts="1789539815087" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-4" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="333" it="0" lt="333" ct="0" ts="1789539815382" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="333" it="0" lt="332" ct="0" ts="1789539815383" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="911" it="0" lt="572" ct="288" ts="1789539814810" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="572" it="0" lt="572" ct="288" ts="1789539814810" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-10" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="339" it="0" lt="333" ct="0" ts="1789539815382" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="339" it="0" lt="338" ct="0" ts="1789539815383" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="333" it="0" lt="332" ct="0" ts="1789539815389" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="332" it="0" lt="331" ct="0" ts="1789539815390" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="333" it="0" lt="333" ct="0" ts="1789539815389" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="344" it="0" lt="344" ct="0" ts="1789539815716" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="715" it="0" lt="369" ct="0" ts="1789539815345" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="369" it="0" lt="369" ct="0" ts="1789539815345" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-3" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="345" it="0" lt="345" ct="0" ts="1789539815715" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="593" it="0" lt="593" ct="0" ts="1789539815722" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="931" it="0" lt="338" ct="0" ts="1789539815384" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="338" it="0" lt="338" ct="0" ts="1789539815384" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-6" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="593" it="0" lt="593" ct="0" ts="1789539815722" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="594" it="0" lt="593" ct="0" ts="1789539815722" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="671" it="0" lt="671" ct="0" ts="1789539815722" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="671" it="0" lt="670" ct="0" ts="1789539815723" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="475" it="0" lt="475" ct="0" ts="1789539816061" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="475" it="0" lt="475" ct="0" ts="1789539816061" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="850" it="0" lt="820" ct="0" ts="1789539815716" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="251" it="0" lt="251" ct="0" ts="1789539816316" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="371" it="0" lt="266" ct="0" ts="1789539816316" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1222" it="0" lt="598" ct="0" ts="1789539815717" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="598" it="0" lt="598" ct="0" ts="1789539815717" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-7" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="624" it="0" lt="372" ct="0" ts="1789539816315" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="677" it="0" lt="664" ct="0" ts="1789539816317" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="1272" it="0" lt="592" ct="0" ts="1789539815723" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="601" it="0" lt="600" ct="0" ts="1789539816394" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="470" it="0" lt="470" ct="0" ts="1789539816537" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="470" it="0" lt="470" ct="0" ts="1789539816537" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="447" it="0" lt="447" ct="0" ts="1789539816687" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="568" it="0" lt="567" ct="0" ts="1789539816567" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="1193" it="0" lt="440" ct="0" ts="1789539816567" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="753" it="0" lt="752" ct="0" ts="1789539817008" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="754" it="0" lt="753" ct="0" ts="1789539817008" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="794" it="0" lt="765" ct="0" ts="1789539816995" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="794" it="0" lt="793" ct="0" ts="1789539816995" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1397" it="0" lt="599" ct="0" ts="1789539816395" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="599" it="0" lt="599" ct="0" ts="1789539816395" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-1" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="797" it="0" lt="796" ct="0" ts="1789539816995" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="852" it="0" lt="852" ct="0" ts="1789539816940" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="657" it="0" lt="656" ct="0" ts="1789539817136" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="657" it="0" lt="656" ct="0" ts="1789539817135" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="782" it="0" lt="650" ct="0" ts="1789539817761" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1549" it="0" lt="796" ct="0" ts="1789539816995" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="796" it="0" lt="796" ct="0" ts="1789539816995" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-2" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="753" it="0" lt="752" ct="0" ts="1789539817791" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="751" it="0" lt="750" ct="0" ts="1789539817793" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="750" it="0" lt="750" ct="0" ts="1789539817793" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="751" it="0" lt="750" ct="0" ts="1789539817793" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1158" it="0" lt="781" ct="0" ts="1789539817762" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="781" it="0" lt="781" ct="0" ts="1789539817762" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-4" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="377" it="0" lt="376" ct="0" ts="1789539818543" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1192" it="0" lt="782" ct="0" ts="1789539817761" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="782" it="0" lt="782" ct="0" ts="1789539817761" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-8" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="410" it="0" lt="410" ct="0" ts="1789539818543" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1175" it="0" lt="750" ct="0" ts="1789539817793" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="750" it="0" lt="750" ct="0" ts="1789539817793" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-10" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="425" it="0" lt="424" ct="0" ts="1789539818543" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="423" it="0" lt="423" ct="0" ts="1789539818545" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="1178" it="0" lt="753" ct="0" ts="1789539817790" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="753" it="0" lt="753" ct="0" ts="1789539817790" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-9" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="425" it="0" lt="425" ct="0" ts="1789539818543" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="424" it="0" lt="424" ct="0" ts="1789539818544" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="424" it="0" lt="423" ct="0" ts="1789539818545" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="1178" it="0" lt="753" ct="0" ts="1789539817790" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="753" it="0" lt="753" ct="0" ts="1789539817790" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-5" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="425" it="0" lt="425" ct="0" ts="1789539818543" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="340" it="0" lt="339" ct="0" ts="1789539818921" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="716" it="0" lt="423" ct="0" ts="1789539818545" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="423" it="0" lt="423" ct="0" ts="1789539818545" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-6" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="293" it="0" lt="292" ct="0" ts="1789539818968" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="305" it="0" lt="304" ct="0" ts="1789539818956" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="717" it="0" lt="423" ct="0" ts="1789539818544" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="23955" sby="306" ng="10" na="10">
+  <httpSample t="423" it="0" lt="423" ct="0" ts="1789539818544" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-3" dt="text" by="387" sby="153" ng="10" na="10">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="294" it="0" lt="293" ct="0" ts="1789539818967" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="23568" sby="153" ng="10" na="10">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="341" it="0" lt="292" ct="0" ts="1789539818969" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="48361" sby="137" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="342" it="0" lt="342" ct="0" ts="1789539818969" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="343" it="0" lt="342" ct="0" ts="1789539818969" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="20331" sby="156" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="344" it="0" lt="343" ct="0" ts="1789539818968" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="343" it="0" lt="342" ct="0" ts="1789539818969" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="23161" sby="146" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="343" it="0" lt="342" ct="0" ts="1789539818969" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-1" dt="text" by="31053" sby="149" ng="10" na="10">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="359" it="0" lt="359" ct="0" ts="1789539819261" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="20331" sby="156" ng="9" na="9">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="357" it="0" lt="357" ct="0" ts="1789539819263" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="23161" sby="146" ng="9" na="9">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="358" it="0" lt="358" ct="0" ts="1789539819262" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="20331" sby="156" ng="9" na="9">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="359" it="0" lt="358" ct="0" ts="1789539819262" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="23161" sby="146" ng="9" na="9">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="430" it="0" lt="430" ct="0" ts="1789539819312" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="20331" sby="156" ng="9" na="9">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="430" it="0" lt="430" ct="0" ts="1789539819312" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="20331" sby="156" ng="9" na="9">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="474" it="0" lt="467" ct="0" ts="1789539819312" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-2" dt="text" by="31053" sby="149" ng="9" na="9">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="473" it="0" lt="473" ct="0" ts="1789539819313" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="20331" sby="156" ng="9" na="9">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="465" it="0" lt="464" ct="0" ts="1789539819621" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-4" dt="text" by="31053" sby="149" ng="8" na="8">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="581" it="0" lt="464" ct="0" ts="1789539819621" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="31053" sby="149" ng="7" na="7">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="734" it="0" lt="734" ct="0" ts="1789539819621" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="20331" sby="156" ng="7" na="7">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="795" it="0" lt="795" ct="0" ts="1789539819621" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="20331" sby="156" ng="7" na="7">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="691" it="0" lt="691" ct="0" ts="1789539819743" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="31053" sby="149" ng="7" na="7">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="1255" it="0" lt="431" ct="0" ts="1789539819311" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="23955" sby="306" ng="7" na="7">
+  <httpSample t="431" it="0" lt="431" ct="0" ts="1789539819311" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-7" dt="text" by="387" sby="153" ng="7" na="7">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="824" it="0" lt="692" ct="0" ts="1789539819742" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="23568" sby="153" ng="7" na="7">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="844" it="0" lt="823" ct="0" ts="1789539819743" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="31053" sby="149" ng="7" na="7">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="801" it="0" lt="800" ct="0" ts="1789539819787" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-5" dt="text" by="31053" sby="149" ng="7" na="7">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="543" it="0" lt="543" ct="0" ts="1789539820356" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-3" dt="text" by="31053" sby="149" ng="6" na="6">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="601" it="0" lt="557" ct="0" ts="1789539820417" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-6" dt="text" by="31053" sby="149" ng="5" na="5">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="816" it="0" lt="386" ct="0" ts="1789539820202" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="48361" sby="137" ng="5" na="5">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="451" it="0" lt="450" ct="0" ts="1789539820568" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="23161" sby="146" ng="5" na="5">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="432" it="0" lt="430" ct="0" ts="1789539820588" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="48361" sby="137" ng="5" na="5">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="584" it="0" lt="582" ct="0" ts="1789539820436" s="true" lb="Calculator - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="48361" sby="137" ng="5" na="5">
+  <java.net.URL>https://www.easycalculation.com/index.php</java.net.URL>
+</httpSample>
+<httpSample t="449" it="0" lt="448" ct="0" ts="1789539821020" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="20331" sby="156" ng="4" na="4">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="698" it="0" lt="448" ct="0" ts="1789539821019" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="23955" sby="306" ng="4" na="4">
+  <httpSample t="448" it="0" lt="448" ct="0" ts="1789539821019" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-8" dt="text" by="387" sby="153" ng="4" na="4">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="250" it="0" lt="249" ct="0" ts="1789539821467" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="23568" sby="153" ng="4" na="4">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="251" it="0" lt="251" ct="0" ts="1789539821470" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-7" dt="text" by="31053" sby="149" ng="4" na="4">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="702" it="0" lt="445" ct="0" ts="1789539821021" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="23955" sby="306" ng="3" na="3">
+  <httpSample t="446" it="0" lt="445" ct="0" ts="1789539821021" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-10" dt="text" by="387" sby="153" ng="3" na="3">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="256" it="0" lt="256" ct="0" ts="1789539821467" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="23568" sby="153" ng="3" na="3">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="744" it="0" lt="445" ct="0" ts="1789539821021" s="true" lb="Converters - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="23955" sby="306" ng="3" na="3">
+  <httpSample t="446" it="0" lt="445" ct="0" ts="1789539821021" s="true" lb="Converters - HTTP Request-0" rc="301" rm="Moved Permanently" tn="EasyCalculation 1-9" dt="text" by="387" sby="153" ng="3" na="3">
+    <java.net.URL>http://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <httpSample t="298" it="0" lt="298" ct="0" ts="1789539821467" s="true" lb="Converters - HTTP Request-1" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="23568" sby="153" ng="3" na="3">
+    <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.easycalculation.com/unit-conversion/index.php</java.net.URL>
+</httpSample>
+<httpSample t="300" it="0" lt="300" ct="0" ts="1789539821717" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="23161" sby="146" ng="3" na="3">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="323" it="0" lt="323" ct="0" ts="1789539821766" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="23161" sby="146" ng="3" na="3">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="365" it="0" lt="365" ct="0" ts="1789539821724" s="true" lb="Formulas - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="23161" sby="146" ng="3" na="3">
+  <java.net.URL>https://www.easycalculation.com/formulas/index.php</java.net.URL>
+</httpSample>
+<httpSample t="297" it="0" lt="296" ct="0" ts="1789539822018" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="20331" sby="156" ng="3" na="3">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="246" it="0" lt="245" ct="0" ts="1789539822090" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="20331" sby="156" ng="3" na="3">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="262" it="0" lt="261" ct="0" ts="1789539822090" s="true" lb="Currencies - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="20331" sby="156" ng="3" na="3">
+  <java.net.URL>https://www.easycalculation.com/currency-converter/index.php</java.net.URL>
+</httpSample>
+<httpSample t="254" it="0" lt="246" ct="0" ts="1789539822315" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-8" dt="text" by="31053" sby="149" ng="3" na="3">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="250" it="0" lt="250" ct="0" ts="1789539822336" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-10" dt="text" by="31053" sby="149" ng="2" na="2">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+<httpSample t="334" it="0" lt="333" ct="0" ts="1789539822352" s="true" lb="Charts - HTTP Request" rc="200" rm="OK" tn="EasyCalculation 1-9" dt="text" by="31053" sby="149" ng="1" na="1">
+  <java.net.URL>https://www.easycalculation.com/charts-and-tables.php</java.net.URL>
+</httpSample>
+
+</testResults>

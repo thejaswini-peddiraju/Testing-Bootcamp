@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.6.3">
+  <hashTree>
+    <SizeAssertion guiclass="SizeAssertionGui" testclass="SizeAssertion" testname="AutomationExercise Size Assertion">
+      <stringProp name="Assertion.test_field">SizeAssertion.response_network_size</stringProp>
+      <stringProp name="SizeAssertion.size">24900</stringProp>
+      <intProp name="SizeAssertion.operator">4</intProp>
+      <stringProp name="TestPlan.comments">The Size Assertion tests that each response contains the right number of bytes in it. You can specify that the size be equal to, greater than, less than, or not equal to a given number of bytes.</stringProp>
+    </SizeAssertion>
+    <hashTree/>
+  </hashTree>
+</jmeterTestPlan>
